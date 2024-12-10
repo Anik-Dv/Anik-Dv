@@ -1,7 +1,13 @@
 ## Hi there! I’m Anik k.👋
 
 # 💫 About Me:
-⚡Hello! I’m Anik, <br>💬a passionate self-taught developer with a drive to turn ideas into impactful, real-world solutions.<br>    Through relentless self-study and dedicated projects, I’ve honed my skills in full-stack development, <br>    focusing on frontends with React and backends with Java Spring Boot. I’m always learning and refining my abilities, <br>    driven by a vision to create applications that are not only efficient but meaningful for users.<br>🔭I’m excited to bring my skills and enthusiasm to a team that values growth, creativity, and quality, <br>     and I’m ready to tackle new challenges that help me grow both professionally and personally.
+### ⚡Hello! I’m Anik, 
+## 💬
+### a passionate self-taught developer with a drive to turn ideas into impactful, real-world solutions.
+### Through relentless self-study and dedicated projects, I’ve honed my skills in full-stack development, focusing on frontends with React and backends with Java Spring Boot. 
+### I’m always learning and refining my abilities, driven by a vision to create applications that are not only efficient but meaningful for users.
+### 🔭 I’m excited to bring my skills and enthusiasm to a team that values growth, creativity, and quality, and I’m ready to tackle new challenges that help me grow both professionally and personally.
+
 
 
 ## 🌐 Socials:
