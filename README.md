@@ -8,6 +8,10 @@
 <!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/104680177?v=4"  /> -->
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anik-Dv&locale=en&mode=daily&theme=dracula&hide_border=false&&card_width=320&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
 ###
 
 
